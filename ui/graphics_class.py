@@ -1,5 +1,5 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
-from PIL.ImageQt import ImageQt
+from PIL.ImageQt import Image as ImageQt
 
 
 class ImageItem(QtWidgets.QGraphicsObject):

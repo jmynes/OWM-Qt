@@ -4,7 +4,7 @@ import core_files.statusbar as sts
 
 from core_files import core
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PIL.ImageQt import ImageQt
+from PIL.ImageQt import Image as ImageQt
 
 log = sts.get_logger(__name__)
 
